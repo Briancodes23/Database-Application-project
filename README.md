@@ -1,4 +1,4 @@
-This is a small database design & Development project.
+This is a small database design & development project.
 
 Software tools used:
 
